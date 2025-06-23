@@ -8,7 +8,7 @@ const FormInput: React.FC<{
 	className?: string
 
 	error?: string
-}> = ({ label, name, error, children, placeholder, className, ...props }) => {
+}> = ({ label, name, error, children, placeholder, className }) => {
 	const input = React.cloneElement(children, {
 		id: name,
 		name,
