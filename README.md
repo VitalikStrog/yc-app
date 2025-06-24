@@ -28,7 +28,7 @@ A Next.js application with Sanity CMS integration, NextAuth authentication, and 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VitalikStrog/yc-app.git
    cd yc-app
    ```
 
